@@ -1,0 +1,96 @@
+
+id:1
+Source:86876786
+Destination:878979723
+Date:1/16/2021 3:31:22 PM
+Status:Failed
+Network:Jio
+
+
+id:2
+Source:86876786
+Destination:878979723
+Date:1/16/2021 3:31:22 PM
+Status:Success
+Network:airtel
+
+id:3
+Source:86876786
+Destination:878979723
+Date:1/16/2021 3:31:22 PM
+Status:Success
+Network:airtel
+
+id:4
+Source:86876786
+Destination:878979723
+Date:1/16/2021 3:31:22 PM
+Status:Failed
+Network:Idea
+
+id:5
+Source:86876786
+Destination:878979723
+Date:1/16/2021 3:31:22 PM
+Status:Failed
+Network:airtel
+
+id:6
+Source:86876786
+Destination:878979723
+Date:1/16/2021 3:31:22 PM
+Status:Failed
+Network:airtel
+
+id:7
+Source:86876786
+Destination:878979723
+Date:1/16/2021 3:31:22 PM
+Status:Failed
+Network:airtel
+
+id:8
+Source:86876786
+Destination:878979723
+Date:1/16/2021 3:31:22 PM
+Status:Dialled
+Network:airtel
+
+id:9
+Source:86876786
+Destination:878979723
+Date:1/16/2021 3:31:22 PM
+Status:Missed
+Network:airtel
+
+id:10
+Source:86876786
+Destination:878979723
+Date:1/16/2021 3:31:22 PM
+Status:Success
+Network:airtel
+
+id:11
+Source:86876786
+Destination:878979723
+Date:1/16/2021 3:31:22 PM
+Status:Success
+Network:Idea
+
+id:12
+Source:86876786
+Destination:878979723
+Date:1/16/2021 3:31:22 PM
+Status:Success
+Network:Jio
+
+
+
+
+
+
+
+
+
+
+
